@@ -1,0 +1,32 @@
+{
+  "sample_files": [
+    "samples/software_engineer_react_a.json",
+    "samples/software_engineer_react_b.json",
+    "samples/product_manager_a.json",
+    "samples/product_manager_b.json",
+    "samples/sdet_a.json",
+    "samples/sdet_b.json",
+    "samples/vp_of_engineering_a.json",
+    "samples/vp_of_engineering_b.json",
+    "samples/ux_designer_a.json",
+    "samples/ux_designer_b.json",
+    "samples/marketing_manager_a.json",
+    "samples/marketing_manager_b.json",
+    "samples/sales_representative_a.json",
+    "samples/sales_representative_b.json",
+    "samples/accountant_a.json",
+    "samples/accountant_b.json",
+    "samples/finance_analyst_a.json",
+    "samples/finance_analyst_b.json",
+    "samples/sales_manager_a.json",
+    "samples/sales_manager_b.json"
+  ],
+  "volume_file": "Number of results.xlsx",
+  "volume_format": {
+    "query_col": "query",
+    "region_col": "region",
+    "total_col": "total"
+  },
+  "volume_wide_regions": ["LATAM", "NA_EU_APAC"],
+  "query_region_in_samples": "from_filename"
+}

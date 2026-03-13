@@ -1,0 +1,22 @@
+{
+  "email": "",
+  "phone": "",
+  "current_job_title": "current_title",
+  "current_company": "current_company_name",
+  "skills_keywords": "skills",
+  "work_history": "experience",
+  "education": "education",
+  "location": "current_location",
+  "linkedin_url": "linkedin_url",
+  "updated_at": "updated_at",
+  "query": "_query",
+  "region": "_region",
+  "headline": "headline",
+  "summary": "about",
+  "certifications": "certifications",
+  "skills": "skills",
+  "full_name": "full_name",
+  "current_company_website": "current_company_website",
+  "experience": "experience",
+  "social_media": "social_media"
+}

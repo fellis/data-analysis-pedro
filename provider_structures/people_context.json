@@ -1,0 +1,10 @@
+{
+  "sample_files": ["all_samples.json"],
+  "volume_file": "country_breakdown_summary.csv",
+  "volume_format": {
+    "query_col": "query",
+    "region_col": "region",
+    "total_col": "total"
+  },
+  "query_region_in_samples": "from_profile"
+}
