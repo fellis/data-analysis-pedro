@@ -95,8 +95,3 @@ Heuristics are used when `OPENROUTER_API_KEY` is not set; with the key, LLM (Ope
 - Python 3.10+ (or compatible 3.x).
 - `pandas`, `openpyxl`, `requests`, `json5`. Optional: `weasyprint` for PDF.
 
----
-
-## Privacy
-
-This repo is intended to be **private**. After pushing to GitHub/GitLab, set the repository visibility to Private in the host settings.
